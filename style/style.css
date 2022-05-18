@@ -43,6 +43,10 @@
     color: darkmagenta;
 }
 
+.nav-button:hover {
+    background-color: gray;
+    color: white;
+}
 
 .nav-button {
     padding: 10px 0;
