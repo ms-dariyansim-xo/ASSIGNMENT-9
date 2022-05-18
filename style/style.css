@@ -1,8 +1,11 @@
 /* Every selector you need to work with has been placed at the top */
 
 #box-a {
-    border: 5px dashed crimson;
+    border: 1px solid black;
 
+}
+#box-a:hover{
+    border: 5px dashed crimson;
 }
 
 
@@ -26,7 +29,7 @@
 }
 
 
-#box-e {
+#box-e:hover {
     padding-top: 100px;
     border: 1px solid black;
     transition: padding-top 5s ease;
