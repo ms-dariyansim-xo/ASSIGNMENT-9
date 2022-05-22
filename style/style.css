@@ -12,6 +12,9 @@
 #box-b:active {
     border: 1px solid black;
     background-color: teal;
+    /*Added in as a RE-ATTEMPT for full credits*/
+    transition: ease-in-out 1s;
+    
 }
 
 
@@ -19,6 +22,8 @@
     border: 1px solid black;
     color: red;
     font-size: 24px;
+    /*Added in as a RE-ATTEMPT for full credits*/
+    transition: ease-out 1s, ease-in 2s;
 }
 
 
@@ -26,6 +31,8 @@
     border: 1px solid black;
     overflow: hidden;
     border-radius: 50%;
+    /*Added in as a RE-ATTEMPT for full credits*/
+    transition: ease-in 2s;
 }
 
 
